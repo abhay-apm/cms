@@ -17,16 +17,7 @@
         "description": {
             "type": "richtext"
         },
-        "image": {
-            "type": "media",
-            "multiple": true,
-            "allowedTypes": [
-                "images",
-                "files",
-                "videos",
-                "audios"
-            ]
-        },
+        
         "price": {
             "type": "integer"
         },
